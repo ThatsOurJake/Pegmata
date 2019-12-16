@@ -1,0 +1,14 @@
+.c-image {
+  width: 100%;
+}
+
+.c-image p {
+  color: #616061;
+  font-size: 13px;
+  line-height: 1.38463;
+  font-weight: 400;
+}
+
+.c-image img {
+  width: 75%;
+}

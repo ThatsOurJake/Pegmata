@@ -1,0 +1,23 @@
+.c-message {
+  width: 100%;
+  display: flex;
+}
+
+.c-message__profile {
+  padding: 4px;
+}
+
+.c-message__profile img {
+  max-width: 36px;
+  max-height: 36px;
+  border-radius: 10%;
+}
+
+.c-message__content {
+  width: 75%;
+  padding: 4px;
+}
+
+.c-message__profile-name {
+  margin: 0 4px 0 0;
+}
