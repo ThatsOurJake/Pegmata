@@ -1,4 +1,4 @@
-# Chat renderer
+# Pegmata
 This library contains some basic components that will be used as my bots ui framework.
 
 ## Section
