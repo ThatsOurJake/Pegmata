@@ -1,7 +1,14 @@
 {
   "name": "pegmata",
   "version": "0.0.1",
-  "main": "./dist/lib/index.js",
+  "main": "dist/lib/index.js",
+  "module": "dist/lib/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JKI12/Pegmata"
+  },
+  "author": "Jake King",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
