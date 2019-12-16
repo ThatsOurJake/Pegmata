@@ -1,5 +1,5 @@
 {
-  "name": "chat-renderer",
+  "name": "pegmata",
   "version": "0.0.1",
   "main": "./dist/lib/index.js",
   "dependencies": {
