@@ -3,7 +3,7 @@ import componentMap from './componentMap';
 
 const blockRenderer = ({ blocks = []}) => {
   return (
-    <div>
+    <div className="c-block">
       { blocks.map((block, index) => {
         return React.createElement(componentMap[block.type], {
           data: block,
